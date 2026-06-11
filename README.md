@@ -1,5 +1,22 @@
-## Hi there 👋
 
+# Hola, soy Madeline 👋
+
+💻 Estudiante de Análisis y Desarrollo de Software
+Tecnologías
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+
+## Actualmente
+🌱 Aprendiendo desarrollo de software
+
+## Contacto
+📧 tfinomadeline@gmail.com
+
+## GitHub Stats
+¡Bienvenido a mi perfil!
 <!--
 **finomadeline-sys/finomadeline-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
